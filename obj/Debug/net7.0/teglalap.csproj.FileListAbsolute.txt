@@ -1,0 +1,15 @@
+D:\C# projektet\teglalap\bin\Debug\net7.0\teglalap.exe
+D:\C# projektet\teglalap\bin\Debug\net7.0\teglalap.deps.json
+D:\C# projektet\teglalap\bin\Debug\net7.0\teglalap.runtimeconfig.json
+D:\C# projektet\teglalap\bin\Debug\net7.0\teglalap.dll
+D:\C# projektet\teglalap\bin\Debug\net7.0\teglalap.pdb
+D:\C# projektet\teglalap\obj\Debug\net7.0\teglalap.csproj.AssemblyReference.cache
+D:\C# projektet\teglalap\obj\Debug\net7.0\teglalap.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projektet\teglalap\obj\Debug\net7.0\teglalap.AssemblyInfoInputs.cache
+D:\C# projektet\teglalap\obj\Debug\net7.0\teglalap.AssemblyInfo.cs
+D:\C# projektet\teglalap\obj\Debug\net7.0\teglalap.csproj.CoreCompileInputs.cache
+D:\C# projektet\teglalap\obj\Debug\net7.0\teglalap.dll
+D:\C# projektet\teglalap\obj\Debug\net7.0\refint\teglalap.dll
+D:\C# projektet\teglalap\obj\Debug\net7.0\teglalap.pdb
+D:\C# projektet\teglalap\obj\Debug\net7.0\teglalap.genruntimeconfig.cache
+D:\C# projektet\teglalap\obj\Debug\net7.0\ref\teglalap.dll
